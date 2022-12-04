@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    /* padding-top: 100px; */
+}
+
+.background_image {
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    width: 1336px;
+    filter: blur(7px);
+    filter: brightness(.1)
+}
